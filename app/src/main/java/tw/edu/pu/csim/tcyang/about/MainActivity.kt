@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         txv = findViewById(R.id.txv)
         txv.setOnClickListener({
             if (txv.text == "子青您好!"){
-                txv.text = "海青班很棒"
+                txv.text = "海青班很棒,數媒更是好的方向"
             }
             else{
                 txv.text = "子青您好!"
