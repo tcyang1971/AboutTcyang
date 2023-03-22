@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
                 txv.text = "海青班很棒,數媒更是好的方向"
             }
             else{
-                txv.text = "Nigel您好!"
+                txv.text = "Nigel您好!JJs你好！"
             }
         })
     }
